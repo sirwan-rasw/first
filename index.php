@@ -10,7 +10,7 @@
 
 <?php
 
-echo "yess";
+echo "yess ama dwam jara ";
 ?>
 
     
