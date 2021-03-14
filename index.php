@@ -11,6 +11,8 @@
 <?php
 
 echo "yess ama dwam jara ";
+echo "bota seyam jar  ";
+
 ?>
 
     
